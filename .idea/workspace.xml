@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb2b7b98-78b4-4baf-9501-a5efffd4a5a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
     </list>
     <ignored path="iSeeUReceiver.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -869,7 +869,7 @@
       <workItem from="1465852570935" duration="10000" />
       <workItem from="1465852624757" duration="7487000" />
       <workItem from="1466005330198" duration="840000" />
-      <workItem from="1466080451848" duration="6256000" />
+      <workItem from="1466080451848" duration="6508000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <created>1466092021011</created>
@@ -878,11 +878,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466092021012</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Jar Added">
+      <created>1466092189280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1466092189280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15770000" />
+    <option name="totallyTimeSpent" value="16022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
@@ -928,7 +935,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+    <MESSAGE value="Jar Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jar Added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
